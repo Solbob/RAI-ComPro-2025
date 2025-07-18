@@ -3,7 +3,7 @@
 int main(){
 
     printf("Hello, World!");
-    printf("Welcome to RAI");
+    printf("\nWelcome to RAI");
 
     return(0);
 }
