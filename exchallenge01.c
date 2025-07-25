@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-
+    
     printf("+----------------+--------+--------+");
     printf("\n%-16s", " Name");
     printf("%s", " | Score1 |");
