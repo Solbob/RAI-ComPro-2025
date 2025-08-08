@@ -17,7 +17,10 @@ int main()
             printf("Even number\n");
             break;
         case 1:
-                }
+        case -1:
+            printf("Odd number\n");
+            break;
+        }
         break;
     }
 
