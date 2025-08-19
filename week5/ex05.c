@@ -1,0 +1,1 @@
+printf("\nHighest Marks: %d", highest);
